@@ -1,1 +1,102 @@
-
+[
+  {
+    "slotId": "SLOT-001",
+    "companyId": "COMP-001",
+    "companyName": "PT Maju Jaya Logistics",
+    "origin": "Tanjung Priok Port, Jakarta",
+    "destination": "Surabaya Port",
+    "date": "2026-08-15",
+    "existingVolume": 45.5,
+    "existingWeight": 120.3
+  },
+  {
+    "slotId": "SLOT-002",
+    "companyId": "COMP-002",
+    "companyName": "CV Ekspor Nusantara",
+    "origin": "Surabaya Port",
+    "destination": "Belawan Port, Medan",
+    "date": "2026-08-18",
+    "existingVolume": 62.8,
+    "existingWeight": 185.7
+  },
+  {
+    "slotId": "SLOT-003",
+    "companyId": "COMP-003",
+    "companyName": "PT Samudra Trading Indonesia",
+    "origin": "Belawan Port, Medan",
+    "destination": "Semarang Port",
+    "date": "2026-08-20",
+    "existingVolume": 38.2,
+    "existingWeight": 95.4
+  },
+  {
+    "slotId": "SLOT-004",
+    "companyId": "COMP-001",
+    "companyName": "PT Maju Jaya Logistics",
+    "origin": "Semarang Port",
+    "destination": "Makassar Port",
+    "date": "2026-08-22",
+    "existingVolume": 71.3,
+    "existingWeight": 210.6
+  },
+  {
+    "slotId": "SLOT-005",
+    "companyId": "COMP-004",
+    "companyName": "PT Indo Global Shipping",
+    "origin": "Tanjung Priok Port, Jakarta",
+    "destination": "Banjarmasin Port",
+    "date": "2026-08-25",
+    "existingVolume": 54.6,
+    "existingWeight": 152.1
+  },
+  {
+    "slotId": "SLOT-006",
+    "companyId": "COMP-002",
+    "companyName": "CV Ekspor Nusantara",
+    "origin": "Makassar Port",
+    "destination": "Tanjung Priok Port, Jakarta",
+    "date": "2026-08-28",
+    "existingVolume": 49.7,
+    "existingWeight": 138.9
+  },
+  {
+    "slotId": "SLOT-007",
+    "companyId": "COMP-005",
+    "companyName": "PT Pelabuhan Raya Indonesia",
+    "origin": "Banjarmasin Port",
+    "destination": "Surabaya Port",
+    "date": "2026-09-01",
+    "existingVolume": 67.4,
+    "existingWeight": 198.2
+  },
+  {
+    "slotId": "SLOT-008",
+    "companyId": "COMP-003",
+    "companyName": "PT Samudra Trading Indonesia",
+    "origin": "Tanjung Priok Port, Jakarta",
+    "destination": "Belawan Port, Medan",
+    "date": "2026-09-05",
+    "existingVolume": 41.9,
+    "existingWeight": 112.5
+  },
+  {
+    "slotId": "SLOT-009",
+    "companyId": "COMP-004",
+    "companyName": "PT Indo Global Shipping",
+    "origin": "Surabaya Port",
+    "destination": "Makassar Port",
+    "date": "2026-09-08",
+    "existingVolume": 58.3,
+    "existingWeight": 168.7
+  },
+  {
+    "slotId": "SLOT-010",
+    "companyId": "COMP-005",
+    "companyName": "PT Pelabuhan Raya Indonesia",
+    "origin": "Belawan Port, Medan",
+    "destination": "Tanjung Priok Port, Jakarta",
+    "date": "2026-09-12",
+    "existingVolume": 76.1,
+    "existingWeight": 225.4
+  }
+]
